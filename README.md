@@ -6,6 +6,7 @@
   <a href="https://flask.palletsprojects.com" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/index.html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
