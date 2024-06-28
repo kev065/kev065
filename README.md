@@ -4,6 +4,7 @@
    
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/index.html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> </a> 
   <a href="https://dart.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" alt="dart" width="40" height="40"/> </a>
