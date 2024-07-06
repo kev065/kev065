@@ -5,7 +5,7 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/index.html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> </a> 
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://camo.githubusercontent.com/8cdc3bccca8567c4290b3f8439e8824171612721495d788715db8d9e6a0cd374/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7461626c6561752e737667" alt="Tableau" width="40" height="40"/> </a>
